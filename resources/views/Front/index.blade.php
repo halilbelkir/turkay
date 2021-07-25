@@ -91,49 +91,49 @@
 
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        {!! Media::createTag('assets/images/acente/ak-sigorta.jpg',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive lazy','alt' => 'Ak Sigorta','title' => 'Ak Sigorta'],'lazy') !!}
+                        {!! Media::createTag('assets/images/acente/ak-sigorta.jpg',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive anasayfa-acente lazy','alt' => 'Ak Sigorta','title' => 'Ak Sigorta'],'lazy') !!}
                         <div class="acente">444 27 27</div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        {!! Media::createTag('assets/images/acente/mapfre_logo.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive lazy','alt' => 'mapfre Sigorta','title' => 'mapfre Sigorta'],'lazy') !!}
+                        {!! Media::createTag('assets/images/acente/mapfre_logo.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive anasayfa-acente lazy','alt' => 'mapfre Sigorta','title' => 'mapfre Sigorta'],'lazy') !!}
                         <div class="acente">0 850 755 0 755</div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        {!! Media::createTag('assets/images/acente/dubaisigorta.jpg',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive lazy','alt' => 'dubai Sigorta','title' => 'dubai Sigorta'],'lazy') !!}
+                        {!! Media::createTag('assets/images/acente/dubaisigorta.jpg',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive anasayfa-acente lazy','alt' => 'dubai Sigorta','title' => 'dubai Sigorta'],'lazy') !!}
                         <div class="acente">0 850 224 33 70 </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-3">
                     <div class="recent-work-wrap">
-                        {!! Media::createTag('assets/images/acente/anadolu-sigorta.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive lazy','alt' => 'anadolu Sigorta','title' => 'anadolu Sigorta'],'lazy') !!}
+                        {!! Media::createTag('assets/images/acente/anadolu-sigorta.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive anasayfa-acente lazy','alt' => 'anadolu Sigorta','title' => 'anadolu Sigorta'],'lazy') !!}
                         <div class="acente">0 850 724 0 850</div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <div class="recent-work-wrap">
-                        {!! Media::createTag('assets/images/acente/orient.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive lazy','alt' => 'orient Sigorta','title' => 'orient Sigorta'],'lazy') !!}
+                        {!! Media::createTag('assets/images/acente/orient.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive anasayfa-acente lazy','alt' => 'orient Sigorta','title' => 'orient Sigorta'],'lazy') !!}
                         <div class="acente">0850 202 35 15</div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <div class="recent-work-wrap">
-                        {!! Media::createTag('assets/images/acente/hdi.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive lazy','alt' => 'hdi Sigorta','title' => 'hdi Sigorta'],'lazy') !!}
+                        {!! Media::createTag('assets/images/acente/hdi.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive anasayfa-acente lazy','alt' => 'hdi Sigorta','title' => 'hdi Sigorta'],'lazy') !!}
                         <div class="acente">0850 222 8 434</div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <div class="recent-work-wrap">
-                        {!! Media::createTag('assets/images/acente/sampojapon.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive lazy','alt' => 'Sampo Japon Sigorta','title' => 'Sampo Japon Sigorta'],'lazy') !!}
+                        {!! Media::createTag('assets/images/acente/sampojapon.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive anasayfa-acente lazy','alt' => 'Sampo Japon Sigorta','title' => 'Sampo Japon Sigorta'],'lazy') !!}
                         <div class="acente">0850 250 81 81</div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4">
                     <div class="recent-work-wrap">
-                        {!! Media::createTag('assets/images/acente/liberty.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive lazy','alt' => 'liberty Sigorta','title' => 'liberty Sigorta'],'lazy') !!}
+                        {!! Media::createTag('assets/images/acente/liberty.png',['width' =>[292], 'height' => [225]],['class'=> 'img-responsive anasayfa-acente lazy','alt' => 'liberty Sigorta','title' => 'liberty Sigorta'],'lazy') !!}
                         <div class="acente">0850 222 555 7</div>
                     </div>
                 </div>

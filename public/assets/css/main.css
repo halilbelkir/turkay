@@ -2619,3 +2619,7 @@ shortcodes page css
     font-size: 40px;
     border-radius: 50px;
 }
+.anasayfa-acente.lazy
+{
+    height: auto !important;
+}
